@@ -7,8 +7,8 @@ on:
         required: true
         type: choice
         options:
-        - 'selene'
-        
+        - 'a146p'
+      
       build_ksun:
         description: 'Build KernelSU-Next A13+'
         required: true
